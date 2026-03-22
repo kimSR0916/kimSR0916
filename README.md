@@ -35,7 +35,7 @@
 - 재료를 조합해 요리를 완성하는 쿠킹마마 스타일 플래시 게임
 - `Lua`
 - 🔗 [Repository](https://github.com/amy10305/npc.git)
-- [4팀 발표 자료.pdf](https://github.com/user-attachments/files/26165518/4.pdf)
+- 🔗 [4팀 발표 자료.pdf](https://github.com/user-attachments/files/26165518/4.pdf)
 
 
 ---
