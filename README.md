@@ -12,7 +12,7 @@
 > 웹 서비스 | 팀 프로젝트
 
 - 학생과 교수를 위한 과제 제출 및 관리 플랫폼
-- 담당: 프론트엔드 - 로그인/로그아웃/회원가입, 홈페이지 구현
+- 담당: 프론트엔드 - 로그인/로그아웃/회원가입
 - `React` `JavaScript` `SCSS` `Java` `Spring`
 - 🔗 [Frontend](https://github.com/Code-Codi/frontend) | [Backend](https://github.com/Code-Codi/backend)
 
@@ -53,7 +53,7 @@
 # Patrona
 > 게임 | 교내 동아리 NPC 프로젝트
 
-- 오염으로부터 세상을 구한다는 종합 미니 게
+- 오염으로부터 세상을 구한다는 종합 미니 게임
 - `Unity` `C#`
 -🔗  [Google 드라이브](https://drive.google.com/drive/folders/1kKJ4ANXcUq8BPIBjw2xsOCixeUOLeVZz?usp=sharing)
 
