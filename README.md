@@ -4,7 +4,7 @@
 - ChatGPT API를 활용한 AI 멘토링 채팅 서비스
 - 담당: 프론트엔드 (UI 디자인, 네트워크 연동, 데이터 바인딩, 에러 핸들링)
 - `Android Studio` `Java` `Retrofit`
-- 🔗 [Repository](https://drive.google.com/drive/folders/1O98wdMsyd-jm2BLk3vxM5Rfycl_bLjBm?usp=sharing)
+- 🔗 [구글 드라이브](https://drive.google.com/drive/folders/1O98wdMsyd-jm2BLk3vxM5Rfycl_bLjBm?usp=sharing)
 
 ---
 
