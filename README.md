@@ -29,31 +29,33 @@
 ---
 
 # 요리 미니게임 - NPC 해커톤 축제의 밤
-> 게임 | 교내 해커톤 **장려상**
+> 게임 | 교내 해커톤 장려상
 
 - 코딩 입문 3주 만에 Lua를 독학 후 제작한 요리 조합 미니게임
-- 재료를 조합해 요리를 완성하는 쿠킹마마 스타일 게임
+- 재료를 조합해 요리를 완성하는 쿠킹마마 스타일 플래시 게임
 - `Lua`
-- 🎬 시연 영상: (추가 예정)
+- 🔗 [Repository](https://github.com/amy10305/npc.git)
+- [4팀 발표 자료.pdf](https://github.com/user-attachments/files/26165518/4.pdf)
+
 
 ---
 
 # Remember&Recollect
 > 게임 | 교내 동아리 NPC 장기 프로젝트
 
-- 6개월간 개발한 Unity 게임, **구글 플레이스토어 출시**
+- 6개월간 개발한 Unity 게임, 구글 플레이스토어 출시
 - 물리 엔진 및 캐릭터 움직임 구현 담당
 - `Unity` `C#`
-- 🔗 [Play Store](링크 추가 예정)
+- 🔗 [Play Store](https://play.google.com/store/apps/details?id=ddwu.npc.REMEMBER_RECOLLECT)
 
 ---
 
 # Patrona
 > 게임 | 교내 동아리 NPC 프로젝트
 
-- 팀원 이탈 위기를 재설계와 규모 축소로 극복하며 완성
+- 오염으로부터 세상을 구한다는 종합 미니 게
 - `Unity` `C#`
-- 🎬 시연 영상: (추가 예정)
+-🔗  [Google 드라이브](https://drive.google.com/drive/folders/1kKJ4ANXcUq8BPIBjw2xsOCixeUOLeVZz?usp=sharing)
 
 ---
 
