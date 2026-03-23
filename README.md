@@ -55,7 +55,7 @@
 
 - 오염으로부터 세상을 구한다는 종합 미니 게임
 - `Unity` `C#`
--🔗  [Google 드라이브](https://drive.google.com/drive/folders/1kKJ4ANXcUq8BPIBjw2xsOCixeUOLeVZz?usp=sharing)
+- 🔗 [Google 드라이브](https://drive.google.com/drive/folders/1kKJ4ANXcUq8BPIBjw2xsOCixeUOLeVZz?usp=sharing)
 
 ---
 
