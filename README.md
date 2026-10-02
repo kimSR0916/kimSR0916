@@ -3,7 +3,7 @@
 
 - ChatGPT API를 활용한 AI 멘토링 채팅 서비스
 - 담당: 프론트엔드 (UI 디자인, 네트워크 연동, 데이터 바인딩, 에러 핸들링)
-- `Android Studio` `Java` `Retrofit`
+- `Android Studio` 
 - 🔗 [Google 드라이브](https://drive.google.com/drive/folders/1O98wdMsyd-jm2BLk3vxM5Rfycl_bLjBm?usp=sharing)
 
 ---
@@ -13,7 +13,7 @@
 
 - 학생과 교수를 위한 과제 제출 및 관리 플랫폼
 - 담당: 풀스택 - 로그인/로그아웃/회원가입
-- `React` `JavaScript` `SCSS` `Java` `Spring`
+- `React` `JavaScript` `Java` `Spring`
 - 🔗 [Frontend](https://github.com/Code-Codi/frontend) | [Backend](https://github.com/Code-Codi/backend)
 
 ---
