@@ -12,7 +12,7 @@
 > 웹 서비스 | 팀 프로젝트
 
 - 학생과 교수를 위한 과제 제출 및 관리 플랫폼
-- 담당: 프론트엔드 - 로그인/로그아웃/회원가입
+- 담당: 풀스택 - 로그인/로그아웃/회원가입
 - `React` `JavaScript` `SCSS` `Java` `Spring`
 - 🔗 [Frontend](https://github.com/Code-Codi/frontend) | [Backend](https://github.com/Code-Codi/backend)
 
